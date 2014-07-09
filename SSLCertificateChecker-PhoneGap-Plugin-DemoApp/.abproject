@@ -1,0 +1,37 @@
+{
+  "ProjectGuid": "25a82e0d-85c6-47e6-a9a2-bf97468fd48a",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.plugindemo.sslcertificatechecker",
+  "ProjectName": "SSLCertificateChecker-PhoneGap-Plugin-DemoApp",
+  "IsRunnable": "true",
+  "FrameworkVersion": "3.2.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.console",
+    "org.apache.cordova.device",
+    "org.apache.cordova.device-orientation",
+    "org.apache.cordova.network-information",
+    "org.apache.cordova.dialogs",
+    "org.apache.cordova.splashscreen",
+    "org.apache.cordova.statusbar"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "AndroidHardwareAcceleration": "false",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "BundleVersion": "1.0",
+  "DisplayName": "SSLCertificateChecker plugin demo",
+  "Description": "SSLCertificateChecker-PhoneGap-Plugin-DemoApp",
+  "Author": "Telerik",
+  "Framework": "Cordova"
+}
