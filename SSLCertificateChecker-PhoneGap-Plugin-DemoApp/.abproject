@@ -4,7 +4,7 @@
   "AppIdentifier": "com.telerik.plugindemo.sslcertificatechecker",
   "ProjectName": "SSLCertificateChecker-PhoneGap-Plugin-DemoApp",
   "IsRunnable": "true",
-  "FrameworkVersion": "3.5.0",
+  "FrameworkVersion": "3.7.0",
   "AndroidPermissions": [
     "android.permission.INTERNET",
     "android.permission.ACCESS_NETWORK_STATE"
@@ -33,5 +33,8 @@
   "DisplayName": "SSLCertificateChecker plugin demo",
   "Description": "SSLCertificateChecker-PhoneGap-Plugin-DemoApp",
   "Author": "Telerik",
-  "Framework": "Cordova"
+  "Framework": "Cordova",
+  "projectVersion": "1",
+  "WP8PublisherID": "{44214d99-0b26-4768-a26d-e482376611d4}",
+  "WP8ProductID": "{3a318d88-87b8-4108-989b-2891389238ba}"
 }
