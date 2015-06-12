@@ -4,26 +4,27 @@
   "AppIdentifier": "com.telerik.plugindemo.sslcertificatechecker",
   "ProjectName": "SSLCertificateChecker-PhoneGap-Plugin-DemoApp",
   "IsRunnable": "true",
-  "FrameworkVersion": "3.7.0",
+  "FrameworkVersion": "4.0.0",
   "AndroidPermissions": [
     "android.permission.INTERNET",
     "android.permission.ACCESS_NETWORK_STATE"
   ],
   "CorePlugins": [
-    "org.apache.cordova.console",
-    "org.apache.cordova.device",
-    "org.apache.cordova.device-orientation",
-    "org.apache.cordova.network-information",
-    "org.apache.cordova.dialogs",
-    "org.apache.cordova.splashscreen",
-    "org.apache.cordova.statusbar"
+    "cordova-plugin-console",
+    "cordova-plugin-crosswalk-webview@1.2.0",
+    "cordova-plugin-device",
+    "cordova-plugin-device-orientation",
+    "cordova-plugin-dialogs",
+    "cordova-plugin-network-information",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar"
   ],
   "DeviceOrientations": [
     "Portrait",
     "Landscape"
   ],
   "iOSStatusBarStyle": "Default",
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "true",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
@@ -36,5 +37,7 @@
   "Framework": "Cordova",
   "projectVersion": "1",
   "WP8PublisherID": "{44214d99-0b26-4768-a26d-e482376611d4}",
-  "WP8ProductID": "{3a318d88-87b8-4108-989b-2891389238ba}"
+  "WP8ProductID": "{3a318d88-87b8-4108-989b-2891389238ba}",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.sslcertificatec"
 }
