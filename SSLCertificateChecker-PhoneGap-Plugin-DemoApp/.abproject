@@ -17,7 +17,8 @@
     "cordova-plugin-dialogs",
     "cordova-plugin-network-information",
     "cordova-plugin-splashscreen",
-    "cordova-plugin-statusbar"
+    "cordova-plugin-statusbar",
+    "nl.x-services.plugins.sslcertificatechecker@5.0.0"
   ],
   "DeviceOrientations": [
     "Portrait",
@@ -39,5 +40,6 @@
   "WP8PublisherID": "{44214d99-0b26-4768-a26d-e482376611d4}",
   "WP8ProductID": "{3a318d88-87b8-4108-989b-2891389238ba}",
   "WP8WindowsPublisherName": "CN=Telerik",
-  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.sslcertificatec"
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.plugindemo.sslcertificatec",
+  "AndroidVersionCode": "1"
 }
